@@ -2,11 +2,21 @@
 *<p align="center">by Colossus With Added Sugar Games</p>*
 
 ## 1.Overview 
-
+Pillars is an indie game built for the PC. The Player is in control of a Hero and must defend a town from incoming raiders that seek to destroy the players pillar. As the player defends the town he/she is given more rewards and grow in power allowing the player to place down towers and barricades along with different pieces of equipment that they can wield.
 ##### 1.1 Vision Statement 
+To the player. The game must feel the following things 
+ 
+Dynamic â€“ The game must feel like it flows and everything goes together well, from the graphics and animations to the combat and resource management 
 
+Strategical - Pillars gameplay must feel like it is challenging and require the player to be strategical on how they handle situations. 
+
+Varied - The players must feel that every time they begin a new game it will be wildly different from last time they played. 
 ##### 1.2 Branding 
-
+The two main branding options for Pillars is going to be chosen depending on the needs of the publisher that we use 
+ 
+Pillars Brand This approach targets is suitable to be sold in any and all market catchment areas such as Supermarkets, Game stores, online distributors, etc. And will draw attention to its unique play style which will encourage new and old players to pick it up. 
+ 
+Indie Brand This approach targets those that enjoy and are happy to play the indie genre, the game would be marketing as such with a huge drive towards online distribution and will be marketed as innovative and leading a new type of genre as this target a large group of individuals who consider themselves hardcore gamers of the genre.
 ## 2.Core Gameplay 
 
 ##### 2.1 Playable Character's
@@ -81,24 +91,24 @@ saving noise to confirm a successful saved game
 The age of the audience in mind for Pillars will mostly be adults under the age of 30. They are likely already PC gamers and will probably have a pre-established interest in the turn-based strategy genre as well as an interest in traditional western-developed RPGs. They are likely fans of the popular strategy series Civilization and have probably ventured onto other games in the genre such as Endless Legend. We may also be able to appeal to those who are interested in indie games as a whole.
 
 ##### 6.2 Projections, Legal Fees And ROI
-Pillars will require a £150,000 investment for a one year development cycle.
+Pillars will require a Â£150,000 investment for a one year development cycle.
 
 The money will be split as follows:
 
-- £105,000 - for the studio's five employees.
+- Â£105,000 - for the studio's five employees.
 
-- £20,000 - for marketing and branding.
+- Â£20,000 - for marketing and branding.
 
-- £5,000 - for equipment and appropriate software.
+- Â£5,000 - for equipment and appropriate software.
 
-- £1,000 - for self-publishing, trademarks, legal fees and a maintaining a website.
+- Â£1,000 - for self-publishing, trademarks, legal fees and a maintaining a website.
 
-- £19,000 - for back-up, extra costs and security.
+- Â£19,000 - for back-up, extra costs and security.
 
-The game will be sold on Steam and itch.io for _£7.99_.
+The game will be sold on Steam and itch.io for _Â£7.99_.
 
 Steam takes 30% of all sales, meaning to break-even we will need to sell 24,506 copies. For itch.io, who take 10% of all sales, we'd need to sell 20,651 copies to break-even.
 
-Ideally we'd like to reach 100,000 sales in one year, with at least 50,000 of those being at full price. Presuming we were able to do that, with 50,000 sales being at the full price of £7.99 and the other 50,000 being at a discounted price of £4.99, we'd make a raw profit of £649,000 and a gross profit (if all sales were on Steam) of £454,300.
+Ideally we'd like to reach 100,000 sales in one year, with at least 50,000 of those being at full price. Presuming we were able to do that, with 50,000 sales being at the full price of Â£7.99 and the other 50,000 being at a discounted price of Â£4.99, we'd make a raw profit of Â£649,000 and a gross profit (if all sales were on Steam) of Â£454,300.
 
-On each sale, the investor will receive 20% of their investment meaning it'll take 93,750 sales for the investor to be fully reimbursed for their investment, making ~ £1.60 per sale.
+On each sale, the investor will receive 20% of their investment meaning it'll take 93,750 sales for the investor to be fully reimbursed for their investment, making ~ Â£1.60 per sale.
