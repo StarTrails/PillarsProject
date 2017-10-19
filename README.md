@@ -20,10 +20,10 @@ Indie Brand This approach targets those that enjoy and are happy to play the ind
 ## 2.Core Gameplay 
 
 ##### 2.1 Playable Character's
-While playing pillars you will be given 4 Player characters that you must control and equip for battle. Each character will have their own stats and the player must use them for their strengths to play the game efficiently.
+While playing pillars you will be given 4 randomly named Player characters that you must control and equip for battle. Each character will have their own stats and the player must use them for their strengths to play the game efficiently.
 
 ##### 2.2 Core Game Systems 
-This game will use a turn based combat system using a 4X grid map layout. Turn order will be decided by a speed stat and attacking enemies will do damage based on your weapons stats and the opponents armour value. reducing an enemies health to zero will defeat them and reward the player with gold they can spend. 
+This game will use a turn based combat system using a 4X grid map layout. Turn order will be decided by a speed stat and attacking enemies will do damage based on your weapons stats and the opponents armour value. reducing an enemies health to zero will defeat them and reward the player with gold they can spend after the battle. 
 
 ##### 2.3 Control Scheme 
 The right mouse button will primarily be used for moving units across the grid on their turn and examining other units in battle. the left mouse button will be used to navigate menu's including choosing to attack or defend oncoming attacks. f5 will be the default save key and pressing escape will give us the option to quit the game.
