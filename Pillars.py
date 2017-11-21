@@ -1,18 +1,40 @@
+"""Imports needed modules for code to function"""
 import pygame
+import random
 
 pygame.init()
 
-screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
+"""Specifies what images to use and defines their name"""
+TileSet = {
+'TileDesert' : pygame.image.load("Desert_Tile.png"),
+'TileGrass' : pygame.image.load("Grass_Tile.png"),
+'TileHill' : pygame.image.load("Hill_Tile.png")
+}
 
-PINK = ((255,105,180))
+"""Creates a list of all images defined"""
+TileList = ['TileDesert', 'TileGrass', 'TileHill']
 
-done = False
-while not done:
+"""Sets the screen width and heights and also defines tilesize"""
+TILESIZE = 140
+MAPWIDTH = 840
+MAPHEIGHT = 700
+
+
+MAINSCREEN = pygame.display.set_mode((840,700))
+
+Odd_Row = MAPWIDTH
+
+"""Creates the loop that generates random terrain"""
+GameCycle = True
+while GameCycle:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            done = True
-        if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
-            done = True
+            GameCycle = False
+        if event.type == pygame.KEYDOWN and pygame.K_RETURN:
+            for x in range(0, MAPWIDTH, TILESIZE):
+                for y in range(0, MAPHEIGHT, TILESIZE):
+                    key = TileList[random.randint(0, len(TileList) - 1)]
+                    MAINSCREEN.blit(TileSet[key], (x, y))
 
-        screen.fill(PINK)
-        pygame.display.flip()
+
+            pygame.display.flip()
